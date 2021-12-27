@@ -1,0 +1,72 @@
+[
+  {
+    "id": "@Jhndo",
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  },
+  {
+    "id": "@Jando",
+    "name": "Jane Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Long time ago"
+  },
+  {
+    "id": "@PouDs",
+    "name": "Pouya Dehghani",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Within a week"
+  },
+  {
+    "id": "@AlDeh",
+    "name": "Alireza Dehghani",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "2021/3/5 4:30AM"
+  },
+  {
+    "id": 5,
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  },
+  {
+    "id": 6,
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  },
+  {
+    "id": 7,
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  },
+  {
+    "id": 8,
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  },
+  {
+    "id": 9,
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  },
+  {
+    "id": 10,
+    "name": "John Doe",
+    "bio": "hey! I'm using chatup.",
+    "avatarUrl": "https://mui.com/static/images/avatar/2.jpg",
+    "lastSeen": "Recently"
+  }
+]

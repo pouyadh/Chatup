@@ -1,0 +1,19 @@
+{
+  "id": "@pv_552381423048",
+  "type": "private",
+  "members": ["@JhnDo", "@JanDo"],
+  "body": [
+    {
+      "id": 1,
+      "userId": "@JhnDo",
+      "text": "Hello",
+      "timestamp": "12/03 21:50"
+    },
+    {
+      "id": 2,
+      "userId": "@JanDo",
+      "text": "Hi!",
+      "timestamp": "12:03 21:51"
+    }
+  ]
+}
